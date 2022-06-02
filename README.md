@@ -36,3 +36,14 @@
 - ### 주문 기능
 <img src="src/main/webapp/resources/image/order1.PNG" width=500>
 <img src="src/main/webapp/resources/image/order2.PNG" width=500>
+
+
+# 기획 설계
+
+- ## 사전 설계
+<img src="src/main/webapp/resources/image/pre_design1.PNG" width=600><img src="src/main/webapp/resources/image/pre_design2.PNG" width=600>
+<img src="src/main/webapp/resources/image/pre_design3.PNG" width=600><img src="src/main/webapp/resources/image/pre_design4.PNG" width=600>
+
+
+- ## ERD
+<img src="src/main/webapp/resources/image/erd.PNG" width=500>
