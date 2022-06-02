@@ -48,7 +48,7 @@
 <br/>
 
 
-# 📸 서비스 및 기능
+## 📸 서비스 및 기능
 
 <details markdown="1">
 <summary>서비스 및 기능</summary>
@@ -81,19 +81,19 @@
 
 
 
-# 기획 설계
+## 기획 설계
 
-- ## 사전 설계
+- ### 사전 설계
 <img src="src/main/webapp/resources/image/pre_design1.PNG" width=400><img src="src/main/webapp/resources/image/pre_design2.PNG" width=400>
 <img src="src/main/webapp/resources/image/pre_design3.PNG" width=400><img src="src/main/webapp/resources/image/pre_design4.PNG" width=400>
 
 
-- ## ERD
+- ### ERD
 <img src="src/main/webapp/resources/image/erd.PNG" width=500>
 
 </details>
 
-# ✔️ 문제 발생 및 해결
+## ✔️ 문제 발생 및 해결
 
 <details markdown="1">
 <summary>서비스 및 기능</summary>
