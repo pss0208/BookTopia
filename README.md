@@ -104,10 +104,11 @@
 <img src="src/main/webapp/resources/image/error1.PNG" width=400>
 <img src="src/main/webapp/resources/image/error2.PNG" width=400>
 <br>
-
+<br>
 - 기존에 작성해둔 메서드로 연결을 하려 했으나 넘어가는 변수들의 타입이 달라 불가능
 - VO타입으로 변수를 받도록 새로 메서드를 작성하여 ModelAndView 타입으로 리턴
-
+<br>
+<br>
 ### 새로운 문제 발생
 
 - 문제 : VO타입을 Map에 넣는 과정 중 goodsDAO가 null이라는 에러가 발생
@@ -119,4 +120,4 @@
 <img src="src/main/webapp/resources/image/complete1.PNG" width=400>
 <img src="src/main/webapp/resources/image/complete2.PNG" width=400>
 
-<details>
+</details>
