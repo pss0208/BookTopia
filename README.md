@@ -93,7 +93,7 @@
 
 </details>
 
-# 문제 발생 및 해결
+# ✔️ 문제 발생 및 해결
 
 <details markdown="1">
 <summary>서비스 및 기능</summary>
