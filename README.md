@@ -12,4 +12,4 @@
 <summary>서비스 사진</summary>
 
 -메인 화면
-<img src="src/main/webapp/resources/image/booktopia.png" width=600>
+<img src="src/main/webapp/resources/image/booktopia.PNG" width=400>
