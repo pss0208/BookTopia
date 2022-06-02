@@ -48,10 +48,10 @@
 <br/>
 
 
-# 📸 서비스 사진
+# 📸 서비스 및 기능
 
 <details markdown="1">
-<summary>서비스 사진</summary>
+<summary>서비스 및 기능</summary>
 
 - ### 메인 화면
 <img src="src/main/webapp/resources/image/booktopia.PNG" width=500>
