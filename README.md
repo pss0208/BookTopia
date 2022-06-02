@@ -5,8 +5,50 @@
  - OOP를 기반으로 DB설계 및 객체를 기능별로 나누어 기획
  - RESTFul을 바탕으로 코드 작성
 
+## ✔️ Part 
+프론트/백엔드 : 박상순
 
-# 서비스 사진
+## 📁 프로젝트 기능
+
+- 회원가입 & 로그인
+- 회원 마이페이지를 통한 정보 수정
+- 관리자 페이지를 통한 회원, 상품, 주문 관리
+- 검색 & 자동완성
+- 장바구니
+- 상품 주문 및 결제
+<br/>
+
+## 📕 기술 스택
+
+#### 📙  프론트 엔드
+
+- jsp
+- CSS
+- JavaScript(jQuery, ajax)
+- tiles
+- BootStrap
+
+
+#### 📙 백엔드
+
+- Spring
+- MyBtis
+- Oracle
+
+<br/>
+
+
+## 📦 개발 환경
+
+
+- Eclipse
+- VS Code
+- Apache Tomcat
+
+<br/>
+
+
+# 📸 서비스 사진
 
 <details markdown="1">
 <summary>서비스 사진</summary>
@@ -37,7 +79,7 @@
 <img src="src/main/webapp/resources/image/order1.PNG" width=500>
 <img src="src/main/webapp/resources/image/order2.PNG" width=500>
 
-</details>
+
 
 # 기획 설계
 
@@ -48,3 +90,5 @@
 
 - ## ERD
 <img src="src/main/webapp/resources/image/erd.PNG" width=500>
+
+</details>
