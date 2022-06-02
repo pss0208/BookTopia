@@ -95,19 +95,28 @@
 
 # 문제 발생 및 해결
 
-## 문제 : 도서 검색 후 장바구니 클릭 시 장바구니에 저장이 되지 않음
-### 원인 : 구현된 메서드가 없음
+<details markdown="1">
+<summary>서비스 및 기능</summary>
+
+### 문제 : 도서 검색 후 장바구니 클릭 시 장바구니에 저장이 되지 않음
+#### 원인 : 구현된 메서드가 없음
+
 <img src="src/main/webapp/resources/image/error1.PNG" width=400>
 <img src="src/main/webapp/resources/image/error2.PNG" width=400>
 <br>
+
 - 기존에 작성해둔 메서드로 연결을 하려 했으나 넘어가는 변수들의 타입이 달라 불가능
 - VO타입으로 변수를 받도록 새로 메서드를 작성하여 ModelAndView 타입으로 리턴
 
 ### 새로운 문제 발생
+
 - 문제 : VO타입을 Map에 넣는 과정 중 goodsDAO가 null이라는 에러가 발생
 <img src="src/main/webapp/resources/image/new_error1.PNG" width=400>
+
 - 원인 : 새로 작성한 메서드에서 서비스 객체를 @Autowired를 사용하지 않고 메서드 내에서 직접 생성하여 사용하려함
 - 해결 : @Autowired를 사용하여 의존성 주입
 
 <img src="src/main/webapp/resources/image/complete1.PNG" width=400>
 <img src="src/main/webapp/resources/image/complete2.PNG" width=400>
+
+<details>
