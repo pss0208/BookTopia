@@ -37,6 +37,7 @@
 <img src="src/main/webapp/resources/image/order1.PNG" width=500>
 <img src="src/main/webapp/resources/image/order2.PNG" width=500>
 
+</details>
 
 # 기획 설계
 
