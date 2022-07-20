@@ -60,7 +60,6 @@
 <img src="src/main/webapp/resources/image/erd.PNG" width=500>
 
 </details>
-<br/>
 
 
 ## 📸 서비스 및 기능
