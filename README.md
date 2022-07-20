@@ -45,14 +45,11 @@
 - Apache Tomcat
 
 <br/>
+<br/>
 
-
-## 📸 서비스 및 기능
-
+## 📋 기획 설계
 <details markdown="1">
-<summary>서비스 및 기능</summary>
-
-## 기획 설계
+<summary>기획 설계</summary>
 
 - ### 사전 설계
 <img src="src/main/webapp/resources/image/pre_design1.PNG" width=400><img src="src/main/webapp/resources/image/pre_design2.PNG" width=400>
@@ -61,6 +58,13 @@
 
 - ### ERD
 <img src="src/main/webapp/resources/image/erd.PNG" width=500>
+
+
+## 📸 서비스 및 기능
+
+<details markdown="1">
+<summary>서비스 및 기능</summary>
+
 
 - ### 메인 화면
 <img src="src/main/webapp/resources/image/booktopia.PNG" width=500>
