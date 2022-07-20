@@ -3,7 +3,6 @@
  도서 쇼핑몰 / 첫 프로젝트 <br>
  <자바 웹을 다루는 기술>을 참고한 클론 프로젝트
  - OOP를 기반으로 DB설계 및 객체를 기능별로 나누어 기획
- - RESTFul을 바탕으로 코드 작성
 
 ## ✔️ Part 
 프론트/백엔드 : 박상순
@@ -53,6 +52,16 @@
 <details markdown="1">
 <summary>서비스 및 기능</summary>
 
+## 기획 설계
+
+- ### 사전 설계
+<img src="src/main/webapp/resources/image/pre_design1.PNG" width=400><img src="src/main/webapp/resources/image/pre_design2.PNG" width=400>
+<img src="src/main/webapp/resources/image/pre_design3.PNG" width=400><img src="src/main/webapp/resources/image/pre_design4.PNG" width=400>
+
+
+- ### ERD
+<img src="src/main/webapp/resources/image/erd.PNG" width=500>
+
 - ### 메인 화면
 <img src="src/main/webapp/resources/image/booktopia.PNG" width=500>
 
@@ -79,17 +88,6 @@
 <img src="src/main/webapp/resources/image/order1.PNG" width=500>
 <img src="src/main/webapp/resources/image/order2.PNG" width=500>
 
-
-
-## 기획 설계
-
-- ### 사전 설계
-<img src="src/main/webapp/resources/image/pre_design1.PNG" width=400><img src="src/main/webapp/resources/image/pre_design2.PNG" width=400>
-<img src="src/main/webapp/resources/image/pre_design3.PNG" width=400><img src="src/main/webapp/resources/image/pre_design4.PNG" width=400>
-
-
-- ### ERD
-<img src="src/main/webapp/resources/image/erd.PNG" width=500>
 
 </details>
 
