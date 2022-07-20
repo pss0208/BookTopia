@@ -41,7 +41,6 @@
 
 
 - Eclipse
-- VS Code
 - Apache Tomcat
 
 <br/>
