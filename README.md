@@ -129,3 +129,7 @@
 <img src="src/main/webapp/resources/image/complete2.PNG" width=400>
 
 </details>
+
+## ppt
+
+https://docs.google.com/presentation/d/1STQynHrueKoCTf2BeuTqPCHdbhiK1H6Yn0SiY0ldpps/edit#slide=id.p10
